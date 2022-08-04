@@ -1,0 +1,6 @@
+#1/bin/bash
+welcome to acada learning
+we are specialised in delivering devops training
+we hope you have a great learning experience
+
+
